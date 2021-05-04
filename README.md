@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programming and game development
 - 🌱 I’m currently learning computer engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me pranavmvora8122001@gmail.com
 
 <!---
 vorapranav/vorapranav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
